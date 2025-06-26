@@ -7,3 +7,5 @@ If you have any requests, you can reach me at:<br> thelifeofnegroness@proton.me<
 <a href=https://google.com>Google</a>
 <br>
 <a href=https://X.com>X</a>
+<br>
+<a href=https://www.wickedweasel.com/>idk</a>
