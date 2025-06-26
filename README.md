@@ -2,7 +2,7 @@
 Welcome, here is a bunch of different links.
 <br>
 <br>
-If you have any requests, you can reach me at:<br> thelifeofnegroness@proton.me<br>----------------------------------------------------------------------
+If you have any requests, you can reach me at:<br> thelifeofnegroness@proton.me<br>-------------------------------------------------------------------
 <br>
 <a href=https://google.com>Google</a>
 <br>
