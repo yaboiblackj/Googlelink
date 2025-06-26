@@ -1,5 +1,8 @@
 # thegooglelink
-Welcome, hopefully clicking this link will take you to google. <br> I am very inexperienced but working on it.<br><br>Thank You
+Welcome, here is a bunch of different links.
+<br>
+<br>
+If you have any requests, you can reach me at:<br> thelifeofnegroness@proton.me
 <br>
 <a href=https://google.com>Google</a>
 <br>
